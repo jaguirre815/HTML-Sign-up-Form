@@ -73,3 +73,7 @@ label {
 .required-field {
     color: red;
 }
+
+.submit {
+    background-color: blueviolet;
+}
